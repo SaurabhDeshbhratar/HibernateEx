@@ -11,6 +11,7 @@ public class Employee {
 	@Id
 	int eid;
 	String ename;
+	int age;
 
 	public int getEid() {
 		return eid;
